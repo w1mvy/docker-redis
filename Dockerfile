@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM armhf/debian:jessie
 MAINTAINER Jimmy Cuadra <jimmy@jimmycuadra.com>
 
 ENV REDIS_MAJOR_MINOR_VERSION 3.0
